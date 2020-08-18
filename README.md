@@ -26,7 +26,7 @@ ASCII code of the (i+1)​<sup>th</sup>​ character in the string _key_ read fr
 Let us consider two different hash functions, f​<sub>1</sub> ​ and f​<sub>2</sub>​. Function f​<sub>1</sub> ​computes a large number and then brings
 the result into the proper range, which is _0_... _tablesize_ −1 , using the formulas below:
 
-![image info](./images/formula1.png)
+![image info](./images/formula1.PNG)
 
 #### _f_<sub>1</sub> = _val_ % _tablesize_ 
 #### if _f_<sub>1</sub> < 0 then _f_<sub>1</sub> = _f_<sub>1</sub> + tablesize
@@ -35,7 +35,7 @@ Function f<sub>2</sub> ​ also computes a large number and then brings the resu
 
 0..._tablesize_ − 1 , using the formulas below:
 
-![image info](./images/formula2.png)
+![image info](./images/formula2.PNG)
 
 #### _f_<sub>2</sub> = _val_ % _tablesize_ 
 #### if _f_<sub>2</sub> < 0 then _f_<sub>2</sub> = _f_<sub>2</sub> + tablesize
@@ -81,7 +81,7 @@ could be changed using the tertiary operator: index = index? 0:1. Depending on t
 apply hash function f<sub>1</sub>​ (index == 0) or f<sub>2</sub>​ (index == 1).
 
 
-![image info](./images/table1.png)
+![image info](./images/table1.PNG)
 
 
 ## Obtaining and Submitting Code
