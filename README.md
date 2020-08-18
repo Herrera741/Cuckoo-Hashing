@@ -125,22 +125,20 @@ CPSC 335-x – Programming Assignment #3: Cuckoo Hashing algorithm
 Input the file name (no spaces)!
 in4.txt
 
-<span style="color:red">
-String &ltAlgorithm Engineering> will be placed at t[16][0]
-String &ltCalifornia State University> will be placed at t[3][0]
-String &ltFullerton> will be placed at t[8][0]
-String &ltCollege of Engineering & Computer Science> will be placed at t[2][0]
-String &ltSchool of Computer Science> will be placed at t[3][0] replacing &ltCalifornia State
-University>
-String &ltCalifornia State University> will be placed at t[11][1]
-String &ltGreedy pattern> will be placed at t[4][0]
-String &ltDivide-and-Conquer> will be placed at t[1][0]
-String &ltMonge Properties> will be placed at t[0][0]
-String &ltString Matching> will be placed at t[0][0] replacing &ltMonge Properties>
-String &ltMonge Properties> will be placed at t[7][1]
-String &ltMatrix Searching> will be placed at t[9][0]
-String &ltOptimal Tree Construction> will be placed at t[5][0]
-</span>
+
+String &lt;Algorithm Engineering> will be placed at t[16][0]  
+String &lt;California State University> will be placed at t[3][0]  
+String &lt;Fullerton> will be placed at t[8][0]  
+String &lt;College of Engineering & Computer Science> will be placed at t[2][0]
+String &lt;School of Computer Science> will be placed at t[3][0] replacing &lt;California State University>  
+String &lt;California State University> will be placed at t[11][1]  
+String &lt;Greedy pattern> will be placed at t[4][0]  
+String &lt;Divide-and-Conquer> will be placed at t[1][0]  
+String &lt;Monge Properties> will be placed at t[0][0]  
+String &lt;String Matching> will be placed at t[0][0] replacing &lt;Monge Properties>
+String &lt;Monge Properties> will be placed at t[7][1]  
+String &lt;Matrix Searching> will be placed at t[9][0]  
+String &lt;Optimal Tree Construction> will be placed at t[5][0]
 
 
 Example #2:
@@ -152,26 +150,26 @@ Input the file name (no spaces)!
 in5.txt
 
 
-<span style="color:red">
-String &ltAlgorithm Engineering> will be placed at t[16][0]
-String &ltCalifornia State University> will be placed at t[3][0]
-String &ltFullerton> will be placed at t[8][0]
-String &ltCollege of Engineering and Computer Science> will be placed at t[15][0]
-String &ltGreedy pattern> will be placed at t[4][0]
-String &ltDivide-and-Conquer> will be placed at t[1][0]
-String &ltMonge Properties> will be placed at t[0][0]
-String &ltString Matching> will be placed at t[0][0] replacing &ltMonge Properties>
-String &ltMonge Properties> will be placed at t[7][1]
-String &ltMatrix Searching> will be placed at t[9][0]
-String &ltOptimal Tree Construction> will be placed at t[5][0]
-String &ltOnline algorithm> will be placed at t[14][0]
-String &ltOffline algorithm> will be placed at t[14][0] replacing &ltOnline algorithm>
-String &ltOnline algorithm> will be placed at t[12][1]
-String &ltemphasis on> will be placed at t[6][0]
-String &ltServer Problem> will be placed at t[10][0]
-String &ltSome related problem> will be placed at t[4][0] replacing &ltGreedy pattern>
-String &ltGreedy pattern> will be placed at t[10][1]
-String &ltSelf-Stabilization> will be placed at t[16][0] replacing &ltAlgorithm Engineering>
-String &ltAlgorithm Engineering> will be placed at t[3][1]
-String &ltOne of the greatest> will be placed at t[13][0]
-</span>
+
+String &lt;Algorithm Engineering> will be placed at t[16][0]  
+String &lt;California State University> will be placed at t[3][0]  
+String &lt;Fullerton> will be placed at t[8][0]  
+String &lt;College of Engineering and Computer Science> will be placed at t[15][0]
+String &lt;Greedy pattern> will be placed at t[4][0]  
+String &lt;Divide-and-Conquer> will be placed at t[1][0]  
+String &lt;Monge Properties> will be placed at t[0][0]  
+String &lt;String Matching> will be placed at t[0][0] replacing &lt;Monge Properties>
+String &lt;Monge Properties> will be placed at t[7][1]  
+String &lt;Matrix Searching> will be placed at t[9][0]  
+String &lt;Optimal Tree Construction> will be placed at t[5][0]  
+String &lt;Online algorithm> will be placed at t[14][0]  
+String &lt;Offline algorithm> will be placed at t[14][0] replacing &lt;Online algorithm>
+String &lt;Online algorithm> will be placed at t[12][1]  
+String &lt;emphasis on> will be placed at t[6][0]  
+String &lt;Server Problem> will be placed at t[10][0]  
+String &lt;Some related problem> will be placed at t[4][0] replacing &lt;Greedy pattern>  
+String &lt;Greedy pattern> will be placed at t[10][1]  
+String &lt;Self-Stabilization> will be placed at t[16][0] replacing &lt;Algorithm Engineering>  
+String &lt;Algorithm Engineering> will be placed at t[3][1]  
+String &lt;One of the greatest> will be placed at t[13][0]
+
