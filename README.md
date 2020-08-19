@@ -102,9 +102,7 @@ You are provided with the following files.
 3. in5.txt​ is another text file that you can use to match the output available in problem description. You
     can use this file to see whether your algorithm implementation is working correctly. See sample runs.
 4. in6.txt​ is a text file for which you need to complete the table required in problem description.
-README.md​ contains a brief description of the project, and a place to write the names and CSUF email
-
-## addresses of the group members. You need to modify this file to identify your group members.
+README.md​ contains a brief description of the project, and a place to write the names and CSUF email addresses of the group members. You need to modify this file to identify your group members.
 
 ## What to Do
 
