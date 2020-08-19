@@ -150,7 +150,6 @@ Input the file name (no spaces)!
 in5.txt
 
 
-
 String &lt;Algorithm Engineering> will be placed at t[16][0]  
 String &lt;California State University> will be placed at t[3][0]  
 String &lt;Fullerton> will be placed at t[8][0]  
